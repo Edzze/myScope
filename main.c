@@ -44,7 +44,6 @@ void useLocal(){
     printf("\nlocal x is %d on exiting useLocal\n",x);
 }
 
-
 void useStaticLocal(){
    static int x=50;
     
